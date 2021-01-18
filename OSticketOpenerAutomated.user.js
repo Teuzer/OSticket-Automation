@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Automatic OSticket Opener
 // @author       Matheus Augusto de Jesus Madeira
-// @version      6
+// @version      7
 // @downloadURL  https://github.com/Teuzer/OSticket-Automation/raw/master/OSticketOpenerAutomated.user.js
 // @updateURL    https://github.com/Teuzer/OSticket-Automation/raw/master/OSticketOpenerAutomated.user.js
 // @description  Design to automate OSticket's open application.
